@@ -1,5 +1,11 @@
 # 🧠 ThinkerCafe 思考者咖啡
 
+<div align="right">
+
+**Language:** [🇹🇼 繁體中文](README.md) | [🇬🇧 English](README_EN.md) | [🇯🇵 日本語](README_JA.md)
+
+</div>
+
 **當科技回歸人性，智慧便有了溫度**
 
 ---

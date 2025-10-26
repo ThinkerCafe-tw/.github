@@ -1,5 +1,11 @@
 # 🧠 ThinkerCafe シンカーカフェ
 
+<div align="right">
+
+**Language:** [🇹🇼 繁體中文](README.md) | [🇬🇧 English](README_EN.md) | [🇯🇵 日本語](README_JA.md)
+
+</div>
+
 **テクノロジーが人間性に戻るとき、知性は温もりを持つ**
 
 ---
