@@ -1,101 +1,38 @@
-# 🧠 ThinkerCafe
+# ThinkerCafe
 
 <div align="right">
 
-**Language:** [🇹🇼 繁體中文](README.md) | [🇬🇧 English](README_EN.md) | [🇯🇵 日本語](README_JA.md)
+**Language:** [繁體中文](README.md) | [English](README_EN.md) | [日本語](README_JA.md)
 
 </div>
 
-**Where Technology Meets Humanity, Intelligence Finds Warmth**
+> Bringing AI into real life while keeping people in control.
 
----
+## About
 
-## 💡 Who We Are
+ThinkerCafe is an initiative operated by **思考者咖啡有限公司**. The company is currently owner-operated by founder Cruz Tang／湯明軒 as a one-person company. There is no current team, no open position, and no public storefront.
 
-We believe that **AI should not be a privilege of the few**.
+We explore how AI can enter real life while preserving human agency and clear boundaries for identity, content, consent, and data across contexts.
 
-Through innovation and trust, we are committed to enabling everyone to learn freely and grow continuously, finding their own value in the AI era.
+## Three initiatives
 
----
+- **ThinkerCafe** — the public home for experiments in AI, everyday life, and running a one-person company.
+- **HumanOS** — research and implementation of human-centered personal AI systems.
+- **苗栗好朋友** — an initiative serving everyday local contexts in Miaoli.
 
-## 🎯 What We Do
+All three initiatives belong to the same company, but user identity, content, consent, and data do not automatically flow between them.
 
-### 📚 AI Education Courses
-Practical courses designed for non-technical backgrounds, mastering AI collaboration from scratch:
-- **Personal OS System** - Build personalized AI life and work systems
-- **AI Communication** - Master prompt engineering and multi-turn dialogue
-- **Visual Hacker** - Generate professional design-quality images with AI
-- **System Hacker** - Build your own AI content factory
-- **Text Detective** - Quickly analyze the core logic of complex texts
+## Current company facts
 
-### 🤖 AI Technology Solutions
-Providing AI implementation and automation services for enterprises and individuals:
-- AI assistant development and integration
-- Enterprise staff services
-- Process automation design
+- Legal name: 思考者咖啡有限公司
+- Founder and representative: Cruz Tang／湯明軒
+- Company registration date: 2024-10-23
+- Registered office: No. 18, Fuhua St., Miaoli City, Miaoli County, Taiwan (not a public storefront)
+- Hiring: no current openings
 
----
+## Contact
 
-## 🌟 Our Values
+- Website: [thinker.cafe](https://thinker.cafe)
+- Email: [cruz@thinker.cafe](mailto:cruz@thinker.cafe)
 
-**Innovation & Excellence** - Pursuing technical excellence, providing cutting-edge AI solutions
-
-**Responsibility & Integrity** - Operating with integrity, accountable to clients, employees, and society
-
-**Openness & Collaboration** - Advocating cross-disciplinary collaboration, promoting knowledge and resource sharing
-
----
-
-## 👥 Our Team
-
-**Cruz Tang** - Founder & CEO
-- Background in data science, AI technology, and international management
-- Managed 300+ team members with extensive entrepreneurial and international operations experience
-
-**Rhaenyra** - Co-founder & Chief Product Officer
-- Product management and UI/UX design expert
-- Successfully transitioned from arts to technology
-
-**Leo** - Senior Frontend Engineer
-- Dual master's degrees in Computer Science and Applied Arts from NCTU
-- Proficient in React, Vue, and full-stack development
-
-**Avery** - Content Creation & AI Application Specialist
-- Social media planning and short video production
-- AI assistant development and prompt engineering
-
-**Vivian** - HR Specialist
-- 7 years HR experience, specialized in startup system establishment
-- Data-driven HR management expert
-
----
-
-## 📫 Contact Us
-
-- 🌐 Website: [thinker.cafe](https://thinker.cafe)
-- 📧 Email: hello@thinker.cafe
-- 📱 Phone: +886 937431998
-- 📍 Address: 3F, No. 170, Sec. 4, Xinyi Rd., Da'an Dist., Taipei 106, Taiwan
-
-**Business Hours:**
-- Mon-Fri: 7:00 AM - 9:00 PM
-- Sat: 8:00 AM - 10:00 PM
-- Sun: 8:00 AM - 8:00 PM
-
----
-
-## 🚀 Get Started
-
-- 📚 [Browse Courses](https://thinker.cafe/courses)
-- 👥 [Meet the Team](https://thinker.cafe/team)
-- 💬 [Contact Us](https://thinker.cafe/contact)
-
----
-
-<p align="center">
-  <em>"Empowering everyone to create their own value in freedom and trust"</em>
-</p>
-
-<p align="center">
-  Founded 2023 | Taipei, Taiwan
-</p>
+Some repositories preserve historical records of past courses, team collaborations, or product experiments. They do not represent a current team, enrollment offer, job opening, or physical business location. For current information, see [thinker.cafe](https://thinker.cafe).
